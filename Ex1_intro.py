@@ -91,7 +91,7 @@ print("\n-------------------------------------------\n"
 # 1. Save your file.
 # 2. In the terminal, type: git add Ex1_intro.py
 # 3. Type: git commit -m "Completed tasks"
-# 4. Type: git push
+# 4. Type: git push origin main
 # -------------------------------------------
 
 
@@ -155,7 +155,7 @@ print("\n-------------------------------------------\n"
 # 1. Save your file.
 # 2. In the terminal, type: git add Ex1_intro.py
 # 3. Type: git commit -m "Completed extensions"
-# 4. Type: git push
+# 4. Type: git push origin main
 # -------------------------------------------
 
 
@@ -191,5 +191,5 @@ print("\n-------------------------------------------\n"
 # Use the terminal to save your final work:
 # 1. git add Ex1_intro.py
 # 2. git commit -m "Completed advanced activity"
-# 3. git push
+# 3. git push origin main
 # -------------------------------------------
